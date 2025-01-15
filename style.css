@@ -1,0 +1,22 @@
+body {
+    padding-left:10%;
+    padding-right:10%;  
+    background-color: #e1bee7;
+  }
+  
+  h1 {
+    font-size:2em;
+    font-family: Helvetica;
+  }
+  
+  p {
+    font size: 1.2em;
+    line-height: 1.3em;
+    padding-bottom: 20px; 
+    
+  }
+  
+  @mediava(orientation:portrait) {
+    #content {width:100%;
+    }
+  }
